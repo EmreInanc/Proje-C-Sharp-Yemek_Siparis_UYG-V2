@@ -1,0 +1,55 @@
+C:\Users\destekstajyer1\source\repos\YemekSiparisUYG\bin\Debug\YemekSiparisUYG.exe.config
+C:\Users\destekstajyer1\source\repos\YemekSiparisUYG\bin\Debug\YemekSiparisUYG.exe
+C:\Users\destekstajyer1\source\repos\YemekSiparisUYG\bin\Debug\YemekSiparisUYG.pdb
+C:\Users\destekstajyer1\source\repos\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.csproj.AssemblyReference.cache
+C:\Users\destekstajyer1\source\repos\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.Form1.resources
+C:\Users\destekstajyer1\source\repos\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.Properties.Resources.resources
+C:\Users\destekstajyer1\source\repos\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.csproj.GenerateResource.cache
+C:\Users\destekstajyer1\source\repos\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.csproj.CoreCompileInputs.cache
+C:\Users\destekstajyer1\source\repos\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.exe
+C:\Users\destekstajyer1\source\repos\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.pdb
+C:\Users\destekstajyer1\source\repos\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.DonerlerFRM.resources
+C:\Users\destekstajyer1\source\repos\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.Icecekler.resources
+C:\Users\destekstajyer1\source\repos\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.Iiskenderler.resources
+C:\Users\destekstajyer1\source\repos\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.Sepet.resources
+C:\Users\destekstajyer1\source\repos\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.Tatlilar.resources
+C:\Users\destekstajyer1\source\repos\YemekSiparisUYG\bin\Debug\MyVt.mdf
+C:\Users\destekstajyer1\source\repos\YemekSiparisUYG\bin\Debug\MyVt_log.ldf
+C:\Users\destekstajyer1\source\repos\YemekSiparisUYG\bin\Debug\System.ValueTuple.dll
+C:\Users\destekstajyer1\source\repos\YemekSiparisUYG\bin\Debug\System.ValueTuple.xml
+C:\Users\destekstajyer1\source\repos\YemekSiparisUYG\obj\Debug\YemekSip.6FB9F4CE.Up2Date
+C:\Users\emrec\OneDrive\Belgeler\Visual Studio 2022\YemekSiparisUYG\bin\Debug\MyVt.mdf
+C:\Users\emrec\OneDrive\Belgeler\Visual Studio 2022\YemekSiparisUYG\bin\Debug\YemekSiparisUYG.exe.config
+C:\Users\emrec\OneDrive\Belgeler\Visual Studio 2022\YemekSiparisUYG\bin\Debug\YemekSiparisUYG.exe
+C:\Users\emrec\OneDrive\Belgeler\Visual Studio 2022\YemekSiparisUYG\bin\Debug\YemekSiparisUYG.pdb
+C:\Users\emrec\OneDrive\Belgeler\Visual Studio 2022\YemekSiparisUYG\bin\Debug\System.ValueTuple.dll
+C:\Users\emrec\OneDrive\Belgeler\Visual Studio 2022\YemekSiparisUYG\bin\Debug\System.ValueTuple.xml
+C:\Users\emrec\OneDrive\Belgeler\Visual Studio 2022\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.csproj.AssemblyReference.cache
+C:\Users\emrec\OneDrive\Belgeler\Visual Studio 2022\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.DonerlerFRM.resources
+C:\Users\emrec\OneDrive\Belgeler\Visual Studio 2022\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.Icecekler.resources
+C:\Users\emrec\OneDrive\Belgeler\Visual Studio 2022\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.Iiskenderler.resources
+C:\Users\emrec\OneDrive\Belgeler\Visual Studio 2022\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.Properties.Resources.resources
+C:\Users\emrec\OneDrive\Belgeler\Visual Studio 2022\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.Sepet.resources
+C:\Users\emrec\OneDrive\Belgeler\Visual Studio 2022\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.Tatlilar.resources
+C:\Users\emrec\OneDrive\Belgeler\Visual Studio 2022\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.csproj.GenerateResource.cache
+C:\Users\emrec\OneDrive\Belgeler\Visual Studio 2022\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.csproj.CoreCompileInputs.cache
+C:\Users\emrec\OneDrive\Belgeler\Visual Studio 2022\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.csproj.CopyComplete
+C:\Users\emrec\OneDrive\Belgeler\Visual Studio 2022\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.exe
+C:\Users\emrec\OneDrive\Belgeler\Visual Studio 2022\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.pdb
+C:\Users\destekstajyer1\source\repos\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.Listeleler.resources
+C:\Users\emrec\OneDrive\Belgeler\Visual Studio 2022\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.Listeleler.resources
+C:\Users\destekstajyer1\source\repos\YemekSiparisUYG\bin\Debug\YemekSiparisUYG.exe.manifest
+C:\Users\destekstajyer1\source\repos\YemekSiparisUYG\bin\Debug\YemekSiparisUYG.application
+C:\Users\destekstajyer1\source\repos\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.exe.manifest
+C:\Users\destekstajyer1\source\repos\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.application
+C:\Users\emrec\OneDrive\Belgeler\Visual Studio 2022\YemekSiparisUYG\bin\Debug\YemekSiparisUYG.exe.manifest
+C:\Users\emrec\OneDrive\Belgeler\Visual Studio 2022\YemekSiparisUYG\bin\Debug\YemekSiparisUYG.application
+C:\Users\emrec\OneDrive\Belgeler\Visual Studio 2022\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.GirisFRM.resources
+C:\Users\emrec\OneDrive\Belgeler\Visual Studio 2022\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.SiparisFRM.resources
+C:\Users\emrec\OneDrive\Belgeler\Visual Studio 2022\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.exe.manifest
+C:\Users\emrec\OneDrive\Belgeler\Visual Studio 2022\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.application
+C:\Users\emrec\OneDrive\Belgeler\Visual Studio 2022\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.YoneticiUrunDuzenleFRM.resources
+C:\Users\emrec\OneDrive\Belgeler\Visual Studio 2022\YemekSiparisUYG\bin\Debug\MyVt_log.ldf
+C:\Users\emrec\OneDrive\Belgeler\Visual Studio 2022\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.YoneticiUrunEkle.resources
+C:\Users\emrec\OneDrive\Belgeler\Visual Studio 2022\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.YoneticiKullanicilariDuzernle.resources
+C:\Users\emrec\OneDrive\Belgeler\Visual Studio 2022\YemekSiparisUYG\obj\Debug\YemekSiparisUYG.YoneticiKullaniciEkle.resources
