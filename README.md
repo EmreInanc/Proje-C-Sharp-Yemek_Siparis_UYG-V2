@@ -1,6 +1,6 @@
-# -Proje C Sharp Yemek Siparis UYG-V2
+# C Sharp Yemek Siparis UYG-V2
 
-<h1> Yemek sipariş uygulaması V2</h1>
+<h3> Yemek sipariş uygulaması V2</h3>
 <br />
 <p>Merhaba bügün sizlere uygulamamın 2.versiyonu ile geldim bu versiyonda ekstradan menülerin düzenlenmesini,yetkili kullanıcı düzenlenmesi(SHA256 şifre kullandım) ekledim.</p>
 
