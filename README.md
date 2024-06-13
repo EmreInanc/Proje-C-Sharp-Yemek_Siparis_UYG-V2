@@ -3,6 +3,7 @@
 <h3> Yemek sipariş uygulaması V2</h3>
 <br />
 <p>Merhaba bügün sizlere uygulamamın 2.versiyonu ile geldim bu versiyonda ekstradan menülerin düzenlenmesini,yetkili kullanıcı düzenlenmesi(SHA256 şifre kullandım) ekledim.</p>
+<p>1.versiyon a göre Sipariş sayfalarında görüntülemeler değiştirdim ve bir takım küçük güncellemeler </p>
 <p>3.versiyon da Log sayfası olucak</p>
 <p>4.versiyon da uygulamayı full özelleştirilir yapmayı düşünüyorum</p>
 
