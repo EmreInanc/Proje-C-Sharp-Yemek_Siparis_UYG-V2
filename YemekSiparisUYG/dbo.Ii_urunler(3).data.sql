@@ -1,0 +1,8 @@
+﻿INSERT INTO [dbo].[Ii_urunler] ([Ii_urun_image], [Ii_urun_adi], [Ii_urun_aciklama], [Ii_urun_Fiyat], [Ii_urun_adet]) VALUES (N'C:/ProjeFoto/foto1.png', N'100 G ET DÖNER', N'Porsiyon 100 G ET DÖNER', N'210TL', N'1')
+INSERT INTO [dbo].[Ii_urunler] ([Ii_urun_image], [Ii_urun_adi], [Ii_urun_aciklama], [Ii_urun_Fiyat], [Ii_urun_adet]) VALUES (N'C:/ProjeFoto/foto2.png', N'120 G ET DÖNER', N'Porsiyon 120 G ET DÖNER', N'220TL', N'1')
+INSERT INTO [dbo].[Ii_urunler] ([Ii_urun_image], [Ii_urun_adi], [Ii_urun_aciklama], [Ii_urun_Fiyat], [Ii_urun_adet]) VALUES (N'C:/ProjeFoto/foto3.png', N'130 G ET DÖNER', N'Porsiyon 130 G ET DÖNER', N'240TL', N'1')
+INSERT INTO [dbo].[Ii_urunler] ([Ii_urun_image], [Ii_urun_adi], [Ii_urun_aciklama], [Ii_urun_Fiyat], [Ii_urun_adet]) VALUES (N'C:/ProjeFoto/foto4.png', N'150 G ET DÖNER', N'Porsiyon 150 G ET DÖNER', N'250TL', N'1')
+INSERT INTO [dbo].[Ii_urunler] ([Ii_urun_image], [Ii_urun_adi], [Ii_urun_aciklama], [Ii_urun_Fiyat], [Ii_urun_adet]) VALUES (N'C:/ProjeFoto/foto5.png', N'170 G ET DÖNER', N'Porsiyon 170 G ET DÖNER', N'260TL', N'1')
+INSERT INTO [dbo].[Ii_urunler] ([Ii_urun_image], [Ii_urun_adi], [Ii_urun_aciklama], [Ii_urun_Fiyat], [Ii_urun_adet]) VALUES (N'C:/ProjeFoto/foto6.png', N'180 G ET DÖNER', N'Porsiyon 180 G ET DÖNER', N'270TL', N'1')
+INSERT INTO [dbo].[Ii_urunler] ([Ii_urun_image], [Ii_urun_adi], [Ii_urun_aciklama], [Ii_urun_Fiyat], [Ii_urun_adet]) VALUES (N'C:/ProjeFoto/foto7.png', N'190 G ET DÖNER', N'Porsiyon 190 G ET DÖNER', N'280TL', N'1')
+INSERT INTO [dbo].[Ii_urunler] ([Ii_urun_image], [Ii_urun_adi], [Ii_urun_aciklama], [Ii_urun_Fiyat], [Ii_urun_adet]) VALUES (N'C:/ProjeFoto/foto8.png', N'200 G ET DÖNER', N'Porsiyon 200 G TAVUK DÖNER', N'290TL', N'1')

@@ -1,0 +1,2 @@
+﻿--SELECT kullanici_adi, sifre FROM Y_yetkiler Where kullanici_adi='Test' AND sifre='Test2'
+SELECT yetki,kullanici_adi, sifre FROM Y_yetkiler Where Y_yetkiler.yetki=Y_yetkiler.yetki AND kullanici_adi='Test' AND sifre='Test2'

@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{155CF2C7-BCD7-415B-ACAA-9734A89F8294}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>YemekSiparisUYG</RootNamespace>
+    <AssemblyName>YemekSiparisUYG</AssemblyName>
+    <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\emrec\OneDrive\Masaüstü\Proje-C-Sharp-Yemek_Siparis_UYG-V2\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>9</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>ABBAC38DA360132AE9A17C6F378659C9FFAAC54A</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>YemekSiparisUYG_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Connection1.cs" />
+    <Compile Include="DonerlerFRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DonerlerFRM.Designer.cs">
+      <DependentUpon>DonerlerFRM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GirisFRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GirisFRM.Designer.cs">
+      <DependentUpon>GirisFRM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyVtDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MyVtDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SiparisFRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SiparisFRM.Designer.cs">
+      <DependentUpon>SiparisFRM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Icecekler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Icecekler.Designer.cs">
+      <DependentUpon>Icecekler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Iiskenderler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Iiskenderler.Designer.cs">
+      <DependentUpon>Iiskenderler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listeleler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listeleler.Designer.cs">
+      <DependentUpon>Listeleler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Sepet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sepet.Designer.cs">
+      <DependentUpon>Sepet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tatlilar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tatlilar.Designer.cs">
+      <DependentUpon>Tatlilar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YoneticiKullaniciEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YoneticiKullaniciEkle.Designer.cs">
+      <DependentUpon>YoneticiKullaniciEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YoneticiKullanicilariDuzernle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YoneticiKullanicilariDuzernle.Designer.cs">
+      <DependentUpon>YoneticiKullanicilariDuzernle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YoneticiUrunDuzenleFRM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YoneticiUrunDuzenleFRM.Designer.cs">
+      <DependentUpon>YoneticiUrunDuzenleFRM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YoneticiUrunEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YoneticiUrunEkle.Designer.cs">
+      <DependentUpon>YoneticiUrunEkle.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="DonerlerFRM.resx">
+      <DependentUpon>DonerlerFRM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GirisFRM.resx">
+      <DependentUpon>GirisFRM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SiparisFRM.resx">
+      <DependentUpon>SiparisFRM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Icecekler.resx">
+      <DependentUpon>Icecekler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Iiskenderler.resx">
+      <DependentUpon>Iiskenderler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listeleler.resx">
+      <DependentUpon>Listeleler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sepet.resx">
+      <DependentUpon>Sepet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tatlilar.resx">
+      <DependentUpon>Tatlilar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YoneticiKullaniciEkle.resx">
+      <DependentUpon>YoneticiKullaniciEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YoneticiKullanicilariDuzernle.resx">
+      <DependentUpon>YoneticiKullanicilariDuzernle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YoneticiUrunDuzenleFRM.resx">
+      <DependentUpon>YoneticiUrunDuzenleFRM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YoneticiUrunEkle.resx">
+      <DependentUpon>YoneticiUrunEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="MyVtDataSet.xsc">
+      <DependentUpon>MyVtDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MyVtDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MyVtDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MyVtDataSet.xss">
+      <DependentUpon>MyVtDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="YemekSiparisUYG_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.8.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.8.1 %28x86 ve x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 </ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Fotoğraflar\döner.jpeg" />
+    <Content Include="Fotoğraflar\Geri.png" />
+    <Content Include="Fotoğraflar\iskender.jpeg" />
+    <Content Include="Fotoğraflar\içecekler.png" />
+    <Content Include="Fotoğraflar\tatlilar.jpeg" />
+    <Content Include="MyVt.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MyVt_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>MyVt.mdf</DependentUpon>
+    </Content>
+    <Content Include="YemekUYGLOGO.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
