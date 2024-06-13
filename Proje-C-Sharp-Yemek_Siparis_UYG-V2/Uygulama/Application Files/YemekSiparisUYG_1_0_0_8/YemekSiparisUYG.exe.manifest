@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="YemekSiparisUYG.exe" version="1.0.0.8" publicKeyToken="5c5c323436969b63" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="YemekSiparisUYG" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="YemekSiparisUYG.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Bildirim Seçenekleri
+          Windows Kullanıcı Hesabı Denetimi düzeyini değiştirmek istiyorsanız,
+           requestedExecutionLevel düğümünü aşağıdakilerden biriyle değiştirin.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Geriye dönük uyumluluk için Dosya ve Kayıt Defteri Sanallaştırması
+         kullanmak istiyorsanız, requestedExecutionLevel düğümünü silin.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.ValueTuple.dll" size="25232">
+      <assemblyIdentity name="System.ValueTuple" version="4.0.3.0" publicKeyToken="CC7B13FFCD2DDD51" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>6QXRAlhbIsbfBPIZr1y9v6e8Fll56XiLYt9tzBZeEPQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="YemekSiparisUYG.exe" size="1123304">
+      <assemblyIdentity name="YemekSiparisUYG" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>4IPshdrsDeYNWP/ZlGqMOqkneLtmbbjjV6oloTOtmSQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Fotoğraflar\döner.jpeg" size="6197">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>aCNt21HoQI/KTnekUEDYBfPCHOF5FOxeXUihQrs+KRc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Fotoğraflar\Geri.png" size="3596">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rELSlM7poJBAKUOuxWMmXGW6t/iX90rPiPoxc9zUe2w=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Fotoğraflar\içecekler.png" size="34537">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>U8GwVFHcg4C6PtOcuNHwDS79JIIQKuUrWoAAqAOH8KU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Fotoğraflar\iskender.jpeg" size="7660">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>yV+9FenfYfJCc7nWUzRqo73CzitdszEbT/i5XYoGywo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Fotoğraflar\tatlilar.jpeg" size="10655">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>7vt+7RFHkkeNUSDsWS75Mysxr/k/6zB5Ma+lwVPQhJg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="MyVt.mdf" size="8388608" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>niinB7UrBXh7OKNIp9D8/HgroDJL3WxZvZsgK/LSzsQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="MyVt_log.ldf" size="786432" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>4UaQxrL+4HuC7CB2QP4MbCBXdGUW3tyQ41VRt9eBzto=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="YemekSiparisUYG.exe.config" size="649">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>RhjdozgbjXCmlqjoWsb9+xpXRbQ+IKhPz2QtZ+nOnKU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="YemekUYGLOGO.ico" size="132998">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Krb8gN5a5PvVDnuKwdFDNdVuDUd5Ja5qjLaZUI1HCyk=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=ticimax\destekstajyer1" issuerKeyHash="ab9ab3898c1a05948ac609c74eac954b365c3265" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>OlY1bdGeSERXO2cwI+rlMlgqSu72rfX9vYqEjhYbcoM=</DigestValue></Reference></SignedInfo><SignatureValue>DvBikz33aZL+sCB2Ixr0WXgx1OzXeqt1NWkewGLUo1gTehSwtAYczmNaeU16aoVIJePios6JiWAxU+R0/qkSiRHzWS79J1zo4awERqfPMGYaF5QgSlnUDS9FNv5qyzSaLWNwNe8ARPP/erFUTyUR08cGG3ZMd3ycrwjFH1LdWh0=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>sKfVng6Ah8ap/VjTEEK/EdI9l1+QQ3C1HUGeJKNL/yWgPdhVoYfC90ca8W3+/xEGlNU7raM1sJcO0gMvyxgqp5OLULRsKszlfgSpLIcAyGdDM+WtGEm3gxX5YSM8pvJBYc/Ont+RPmjSnh2BQtiHzRrt9fxVels4cy+wlQzWZh0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="83721b168e848abdfdf5adf6ee4a2a5832e5ea2330673b5744489ed16d35563a" Description="" Url=""><as:assemblyIdentity name="YemekSiparisUYG.exe" version="1.0.0.8" publicKeyToken="5c5c323436969b63" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=ticimax\destekstajyer1</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>2223KnZJcFVZPcfMfC3unj8E8IJdDAMIVI8PWINwgL0=</DigestValue></Reference></SignedInfo><SignatureValue>h9dmkkiLmUvB04mKDHHKEd6hTWh4sqR7omxoQS3KzvW45oW0rFBfS54aaCWCwEhXrkQo+2Wp1ykpROP5hFR2K2rAkRRERFDK3HiT1T6MklG8vh5dnu/ujF9ak7cSwn9Z0J8mXwlyib5KAM9lIqb1O0QV/yeomh8tFYoT7P8E7rA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>sKfVng6Ah8ap/VjTEEK/EdI9l1+QQ3C1HUGeJKNL/yWgPdhVoYfC90ca8W3+/xEGlNU7raM1sJcO0gMvyxgqp5OLULRsKszlfgSpLIcAyGdDM+WtGEm3gxX5YSM8pvJBYc/Ont+RPmjSnh2BQtiHzRrt9fxVels4cy+wlQzWZh0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB8TCCAVqgAwIBAgIQUEQyffoaKq9GK5EGAsn3azANBgkqhkiG9w0BAQsFADA3MTUwMwYDVQQDHiwAdABpAGMAaQBtAGEAeABcAGQAZQBzAHQAZQBrAHMAdABhAGoAeQBlAHIAMTAeFw0yNDA1MjcxMDA1NDdaFw0yNTA1MjcxNjA1NDdaMDcxNTAzBgNVBAMeLAB0AGkAYwBpAG0AYQB4AFwAZABlAHMAdABlAGsAcwB0AGEAagB5AGUAcgAxMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCwp9WeDoCHxqn9WNMQQr8R0j2XX5BDcLUdQZ4ko0v/JaA92FWhh8L3Rxrxbf7/EQaU1TutozWwlw7SAy/LGCqnk4tQtGwqzOV+BKkshwDIZ0Mz5a0YSbeDFflhIzym8kFhz86e35E+aNKeHYFC2IfNGu31/FV6WzhzL7CVDNZmHQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAF5rmNM00jhh6WfxqU9H7jQ0Fme1io83RklqhoytpQEbJycdFlT5B0smnmqbQ4uVpaDUATlEYSt0fUnhxBw1x2c6eqRJepion9zs962KU8wVU3nXkcj+SMRPUXV84aaXzvDD7ibx6SUEbeaXbPwPd+tHDXm6ETh3NY4En5kRWZEa</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
