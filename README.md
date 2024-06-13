@@ -1,4 +1,4 @@
-# C Sharp Yemek Siparis UYG-V2
+# C# Yemek Siparis UYG-V2
 
 <h3> Yemek sipariş uygulaması V2</h3>
 <br />
